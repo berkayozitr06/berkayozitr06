@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @berkayozitr06
+- 👀 I’m interested in software and computer.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me 
