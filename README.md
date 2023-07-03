@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berkayozitr06
-- 👀 I’m interested in software and computer.
+- 👋 Hi, I’m Berkay Ozisik.
+- 👀 I’m interested in mathematics and software.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me 
+- 📫 How to reach me
