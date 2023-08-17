@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Berkay Ozisik.
-- 👀 I’m interested in mathematics and software.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me
