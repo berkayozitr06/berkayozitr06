@@ -1,3 +1,10 @@
 How to reach me 📫:berkayozi08@gmail.com
 
-<h1>Connect with me</h1>
+<html lang="en">
+<head>
+
+
+</head>
+<body>
+  <h2>Contact with me: </h2>
+</body>
