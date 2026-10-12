@@ -1,4 +1,4 @@
-How to reach me 📫:berkayozi08@gmail.com
+How to reach me 📫:bozisik@bcamath.org
 
 <html lang="en">
 <head>
