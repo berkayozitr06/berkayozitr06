@@ -55,19 +55,18 @@ I am particularly interested in the mathematical foundations of machine learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" title="Jupyter"/>
-  &nbsp;&nbsp;
 </p>
 
 ---
 
 ## Contact
 
-<a href="mailto:bozisik@bcamath.org">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/berkayozisk">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="left">
+  <a href="mailto:bozisik@bcamath.org">
+    <img src="https://img.shields.io/badge/Email-2D333B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/berkayozisk">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
+  </a>
+</p>
