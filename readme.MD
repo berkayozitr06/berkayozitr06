@@ -62,11 +62,17 @@ I am particularly interested in the mathematical foundations of machine learning
 ## Contact
 
 <p align="left">
-  <a href="mailto:bozisik@bcamath.org">
-    <img src="https://img.shields.io/badge/Email-2D333B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
+  <a href="mailto:bozisik@bcamath.org" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+         alt="Email"
+         width="42"
+         height="42"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/berkayozisk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/berkayozisk" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="42"
+         height="42"/>
   </a>
 </p>
