@@ -1,4 +1,3 @@
-```markdown
 # Berkay Özışık
 
 Mathematics graduate with interests in applied mathematics, numerical optimization, scientific computing, and machine learning.
@@ -59,4 +58,4 @@ My academic interests include dynamical systems, numerical methods, optimization
     width="40"
   >
 </a>
-```
+
