@@ -62,7 +62,7 @@ I am particularly interested in the mathematical foundations of machine learning
 
 <p align="left">
   <a href="mailto:bozisik@bcamath.org" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg"
+    <img src="https://cdn.simpleicons.org/gmail"
          alt="Gmail"
          width="45"
          height="45"/>
