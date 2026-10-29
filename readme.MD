@@ -63,16 +63,16 @@ I am particularly interested in the mathematical foundations of machine learning
 
 <p align="left">
   <a href="mailto:bozisik@bcamath.org" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-         alt="Email"
-         width="42"
-         height="42"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg"
+         alt="Gmail"
+         width="45"
+         height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/berkayozisk" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
-         width="42"
-         height="42"/>
+         width="45"
+         height="45"/>
   </a>
 </p>
