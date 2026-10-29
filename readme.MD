@@ -11,11 +11,10 @@ I am particularly interested in the mathematical foundations of machine learning
 ## Research Interests
 
 - Machine Learning & Artificial Intelligence
-- Deep Learning & Neural Networks
+- Deep Learning
 - Mathematical Foundations of Machine Learning
 - Applied Mathematics & Mathematical Modeling
 - Scientific Computing & Numerical Methods
-- Data Science & Statistical Learning
 
 ---
 
