@@ -1,18 +1,18 @@
 # Berkay Özışık
 
-Mathematics graduate with interests in applied mathematics, numerical optimization, scientific computing, and machine learning.
+Mathematics graduate with a strong interest in **Machine Learning, Artificial Intelligence, and Applied Mathematics**.
 
-Currently conducting research at the **Basque Center for Applied Mathematics (BCAM)**, focusing on mathematical modeling, optimal control, and numerical optimization of heterogeneous tumor populations under chemotherapy.
+Currently a Research Intern at the **Basque Center for Applied Mathematics (BCAM)**, working on mathematical modeling, numerical optimization, and computational approaches to heterogeneous tumor dynamics. My research also involves exploring machine learning methods for analyzing simulation results, identifying patterns, and understanding complex mathematical models.
 
-My academic interests include dynamical systems, numerical methods, optimization algorithms, and machine learning.
+I am particularly interested in the mathematical foundations of machine learning, deep learning, and the intersection of artificial intelligence with scientific computing.
 
 ## Research Interests
 
+- Machine Learning & Artificial Intelligence
+- Deep Learning & Neural Networks
+- Mathematical Foundations of Machine Learning
 - Applied Mathematics & Mathematical Modeling
-- Numerical Optimization & Optimal Control
-- Dynamical Systems & Differential Equations
 - Scientific Computing & Numerical Methods
-- Machine Learning & Data Analysis
 
 ## Tech Stack
 
@@ -20,22 +20,19 @@ My academic interests include dynamical systems, numerical methods, optimization
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-### Scientific Computing & Optimization
+### Machine Learning & Deep Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Scientific Computing & Data Analysis
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
-![CasADi](https://img.shields.io/badge/CasADi-555555?style=flat-square)
-![IPOPT](https://img.shields.io/badge/IPOPT-555555?style=flat-square)
-
-### Machine Learning & Data Analysis
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Development Tools
 
@@ -49,13 +46,6 @@ My academic interests include dynamical systems, numerical methods, optimization
 
 📫 **Email:** [bozisik@bcamath.org](mailto:bozisik@bcamath.org)
 
-<a href="https://www.linkedin.com/in/berkayozisk" rel="nofollow">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="30"
-    width="40"
-  >
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayozisk)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://www.berkayozisik.com/)
