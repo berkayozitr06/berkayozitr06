@@ -42,9 +42,7 @@ I am particularly interested in the mathematical foundations of machine learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" title="NumPy"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" width="45" height="45" alt="SciPy" title="SciPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sympy/sympy-original.svg" width="45" height="45" alt="SymPy" title="SymPy"/>
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="45" height="45" alt="SciPy" title="SciPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
   &nbsp;&nbsp;
